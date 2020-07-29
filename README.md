@@ -1,1 +1,1 @@
-<h1 align='center'>Stay Awesome!</h1>
+<h1 align='center'>TechGoEasyOnMe!</h1>
